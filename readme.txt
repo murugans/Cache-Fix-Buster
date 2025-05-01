@@ -1,6 +1,6 @@
 === Cache Fix Buster ===
 Contributors: Murugan S
-Tags: cache, cache busting, css versioning, javascript versioning, browser cache, service worker, responsive fix  
+Tags: cache, cache busting, browser cache, css versioning, javascript versioning
 Requires at least: 5.0  
 Tested up to: 6.8  
 Requires PHP: 7.2  
